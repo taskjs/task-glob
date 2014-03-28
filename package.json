@@ -1,0 +1,34 @@
+{
+  "name": "task-glob",
+  "version": "0.1.0",
+  "main": "lib/glob.js",
+  "description": "Read files with glob.",
+  "homepage": "https://github.com/taskjs/task-glob",
+  "bugs": "https://github.com/taskjs/task-glob/issues",
+  "author": {
+    "name": "yuanyan",
+    "email": "yuanyan.cao@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taskjs/task-glob"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "keywords": [
+    "glob",
+    "task"
+  ],
+  "dependencies": {
+    "execution": "^0.1.0",
+    "glob": "^3.2.9",
+    "record": "^0.2.0",
+    "lodash": "^2.4.1"
+  },
+  "scripts": {
+    "test": "node test/glob_test"
+  }
+}
