@@ -24,6 +24,8 @@ Default: `'process.cwd()'`
 The current working directory in which to search.
 
 ## Release History
+* 2014-10-11    0.1.2    Fix settings argument not pass.
+* 2014-09-29    0.1.1    Accept array of patterns.
 * 2014-03-28    0.1.0    Initial release.
 
 ## License

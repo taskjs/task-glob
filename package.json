@@ -1,6 +1,6 @@
 {
   "name": "task-glob",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "lib/glob.js",
   "description": "Read files with glob.",
   "homepage": "https://github.com/taskjs/task-glob",
